@@ -1,9 +1,9 @@
 import React from 'react'
-import styles from '../../styles/page.module.css'
+// import styles from '../styles/Header.css'
 
 export default function Header() {
   return (
-    <header className={styles.header}>
+    <header className={header}>
         <nav>
             <ul>
                 <li>INQUIRE</li>
@@ -25,4 +25,3 @@ export default function Header() {
     </header>
   )
 }
-import Header from '../SubComponent/Header'

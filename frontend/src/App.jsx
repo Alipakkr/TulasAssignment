@@ -6,7 +6,7 @@ import TulasClg from "./Components/TulasClg";
 import WhyTis from "./Components/Whyus";
 import Yt from "./Components/Yt";
 import Youtube from "./Components/Yt";
-import Header from '../SubComponent/Header'
+import Header from './Components/Header'
 
 export default function App() {
   return (

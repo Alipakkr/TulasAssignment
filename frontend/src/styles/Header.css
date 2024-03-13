@@ -1,0 +1,62 @@
+/* .header{
+    background-color: var(--primary);
+    display: flex;
+    flex-direction: column;
+}
+.header > nav{
+    margin: 0 auto;
+    width: fit-content;
+    padding: 20px;
+}
+.header > nav ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    padding: 0;
+    margin: auto;
+}
+.header > nav ul li{
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    transition: opacity .5s;
+}
+.header > nav ul div{
+    height: 20px;
+    width: 1px;
+    background-color: white;
+    opacity: .5;
+}
+.header > nav ul div ~ li{
+    font-weight: normal;
+}
+.header > nav ul li:hover{
+    opacity: .5;
+}
+.header > section{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 50px;
+    margin: 50px 0;
+}
+.header > section h1{
+    font-size: min(12vw, 9rem);
+    color: white;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    letter-spacing: 5px;
+    text-shadow: 0px 10px 20px #00000059;
+}
+.header > section > div{
+    display: grid;
+    grid-template-areas: 'a b' 'c d';
+}
+.header > section > div h1:nth-child(2){
+    text-align: right;
+}
+ */
