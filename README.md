@@ -35,10 +35,10 @@ npm run start
 
 
 ## Technology Stack
-## JavaScript
-## React
-## Git
-## CSS 
+JavaScript
+React
+Git
+CSS 
 
 
 
