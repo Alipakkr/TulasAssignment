@@ -173,7 +173,7 @@ paddingRight: "138px"}}>
           />
           <CardComponent
             heading="International School Award, India 2019"
-            source='https://s3-alpha-sig.figma.com/img/4e0a/c460/2c0383f400220dcb63e7c93c7e04b629?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h5TrP94pPaUA8~e0LDL5Td3ECiGjji-Y1e5ReSqyKlyzRhp27py4SRXrcTyierP~Du-XLAL1eblvjpwFP5bLIp7m-ApH01641XGNHUSoXXS~U12ubvyurWYYsNnV1J-q9lUxDJWIZ06uy3j58Ak4k-c-ch5COOtcDmniHlbLgiT~TpfTHysYp7I67SwDj0trndKtq7CH69pTA-Pkgxs3OXyG6IizFfFhbX4tpuPyXyc8LEf-gQgVYAvf2KTUC8TXrPsqXHVhhZn-T6fi-VrMXZnzTw0qxMGoVLUgQs6fXM8C2G4cB6bfjujDCfSqDci9s7pB8mTt~8C5iWFxsWNzww__'
+            source='https://s3-alpha-sig.figma.com/img/61b5/c276/bc9709f7431373bf6017f0cd846dce95?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jH8wGahMBbuyu842KOEVMj~L2nPWnPq-VmG4uSmswmQ4x~vWZJDXMcX60dq0rcAEkjWxL9CdK3Kaz~6D8qjwQW9hCXnypa1G4S~5pMHKpVbUpIA5Mi~Exhy5~jc6OXvFjvk8UYDrW1O0AIdb5QIzJLLfGV0G9EgoSj07mPzi9zHtpDL6b4Oy8cIKJE14gun2-9rNyLvKTc-pjRlsWX1jyHY3TMJocD5-yXDNomOodSiV5DWmB2aN6AodJkk2-~ygWkArPSjuBYbUoVddcQJK8aBSbn-oU-zLXaYUDmnk9yVVFWT6SBVTQAPVqBgrxdT4Nz3W8K91xOA-6sHdJU2Vhg__'
           />
         </div>
       </section>
