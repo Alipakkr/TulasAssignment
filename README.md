@@ -35,12 +35,12 @@ npm run start
 
 
 ## Technology Stack
+## JavaScript
+## React
+## Git
+## CSS 
 
 
-- Node.js
-- Express.js
-- MongoDB
-- Other libraries/modules
 
  ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
