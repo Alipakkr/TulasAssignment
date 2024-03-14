@@ -1,8 +1,7 @@
-# Project Title
+# THE TULAS
 
 ## Introduction
-A brief introduction of your project goes here. You may want to cover the purpose of your project, its core functionality, and what problems it solves.
-
+Welcome to Tula’s International School, where we prioritize all-round development through diverse extracurricular activities. Our innovative approach to education, personalized schedules, and friendly management create an environment where every student thrives. Join us and discover your focus today.
 ## Project Type
 Frontend | Backend | Fullstack
 
