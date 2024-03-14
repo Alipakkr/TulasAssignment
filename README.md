@@ -26,9 +26,11 @@ npm run start
 ```
 
 ## Usage
-
-
-Include screenshots as necessary.
+<img src="https://github.com/Alipakkr/TulasAssignment/blob/main/frontend/src/Assets/madeatmadeira.png"></img>
+<img src="https://github.com/Alipakkr/TulasAssignment/blob/main/frontend/src/Assets/activities.png"></img>
+<img src="https://github.com/Alipakkr/TulasAssignment/blob/main/frontend/src/Assets/campus.png"></img>
+<img src="https://github.com/Alipakkr/TulasAssignment/blob/main/frontend/src/Assets/achivegoals.png"></img>
+<img src="https://github.com/Alipakkr/TulasAssignment/blob/main/frontend/src/Assets/contact.png"></img>
 
 
 
