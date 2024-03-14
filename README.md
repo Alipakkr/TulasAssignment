@@ -10,8 +10,8 @@ Frontend: https://deployed-site.whatever
 
 ## Directory Structure
 
-├─ frontend/
-│  ├─ ...
+## ├─ frontend/
+## │  ├─ ...
 
 ## Video Walkthrough of the project
 Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
