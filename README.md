@@ -6,8 +6,7 @@ Welcome to Tula’s International School, where we prioritize all-round developm
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
-
+Frontend: https://tulas-tau.vercel.app/
 ## Directory Structure
 
 ## ├─ frontend/
