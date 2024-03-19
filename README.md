@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to Tula’s International School, where we prioritize all-round development through diverse extracurricular activities. Our innovative approach to education, personalized schedules, and friendly management create an environment where every student thrives. Join us and discover your focus today.
 ## Project Type
-Frontend | Backend | Fullstack
+Frontend 
 
 ## Deplolyed App
 Frontend: https://tulas-tau.vercel.app/
@@ -18,7 +18,7 @@ Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
 npm install 
-cd my-project
+cd frontend 
 npm start
 cd src
 npm run start 
